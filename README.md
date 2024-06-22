@@ -1,4 +1,4 @@
-[![MasterHead]([https://ideogram.ai/g/C5410-EaRBm1sgQxlAYOjQ/2](https://www.google.com/url?sa=i&url=https%3A%2F%2Fskillcrush.com%2Fblog%2Fwhat-is-a-coder%2F&psig=AOvVaw1ALffgVQ_DRJ9TbI5573u4&ust=1719120193456000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLjX8ve77oYDFQAAAAAdAAAAABAE))
+[![MasterHead](https://github.com/Ritikranjan001/AR-Marker/blob/main/Assets/git%20banner%20(3).jpeg)
 <h1 align="center">Hi 👋, I'm Ritik Ranjan</h1>
 <h3 align="center">A passionate Game developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fskillcrush.com%2Fblog%2Fwhat-is-a-coder%2F&psig=AOvVaw1ALffgVQ_DRJ9TbI5573u4&ust=1719120193456000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLjX8ve77oYDFQAAAAAdAAAAABAE">
