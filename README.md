@@ -1,7 +1,9 @@
-[![MasterHead](https://github.com/Ritikranjan001/AR-Marker/blob/main/Assets/git%20banner%20(3).jpeg)
+![MasterHead](https://github.com/Ritikranjan001/AR-Marker/blob/main/Assets/git%20banner%20(3).jpeg)
 <h1 align="center">Hi 👋, I'm Ritik Ranjan</h1>
 <h3 align="center">A passionate Game developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fskillcrush.com%2Fblog%2Fwhat-is-a-coder%2F&psig=AOvVaw1ALffgVQ_DRJ9TbI5573u4&ust=1719120193456000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLjX8ve77oYDFQAAAAAdAAAAABAE">
+<p align="center">
+  <img alt="Coding" width="400" src="https://github.com/Ritikranjan001/AR-Marker/blob/main/coder.jpeg" style="margin-left: 20px;">
+</p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritikranjan001&label=Profile%20views&color=0e75b6&style=flat" alt="ritikranjan001" /> </p>
